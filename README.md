@@ -37,7 +37,8 @@ By analyzing this data, we can extract key insights about customer behavior, boo
     4.How does ADR vary between hotel types and seasons?
     5.Do repeated guests behave differently than new guests?
     
-# Dataset:- https://github.com/abdulhaadi4419/Hotel-Booking-Data-Analysis/blob/main/hotel_bookings%202.csv
+# Dataset:-
+https://github.com/abdulhaadi4419/Hotel-Booking-Data-Analysis/blob/main/hotel_bookings%202.csv
 
 # Key Insights:
      ✅ Booking Trends – Number of bookings per month/year, seasonal patterns.
