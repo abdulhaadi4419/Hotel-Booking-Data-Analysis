@@ -37,20 +37,20 @@ By analyzing this data, we can extract key insights about customer behavior, boo
     4.How does ADR vary between hotel types and seasons?
     5.Do repeated guests behave differently than new guests?
     
-# Dataset:-
+# Dataset:- https://github.com/abdulhaadi4419/Hotel-Booking-Data-Analysis/blob/main/hotel_bookings%202.csv
 
-Key Insights:
-✅ Booking Trends – Number of bookings per month/year, seasonal patterns.
-✅ Customer Segments – Identifying frequent travelers, repeat guests, or corporate bookings.
-✅ Cancellation Analysis – Finding factors affecting cancellation rates.
-✅ Revenue Insights – Room type pricing, length of stay impact on revenue.
-✅ Lead Time Analysis – How far in advance customers book.
-✅ Country-wise Distribution – Understanding guest demographics.
+# Key Insights:
+     ✅ Booking Trends – Number of bookings per month/year, seasonal patterns.
+     ✅ Customer Segments – Identifying frequent travelers, repeat guests, or corporate bookings.
+     ✅ Cancellation Analysis – Finding factors affecting cancellation rates.
+     ✅ Revenue Insights – Room type pricing, length of stay impact on revenue.
+     ✅ Lead Time Analysis – How far in advance customers book.
+     ✅ Country-wise Distribution – Understanding guest demographics.
 
-Tools & Techniques Used:
-📊 Pandas & NumPy – Data manipulation & calculations.
-📈 Matplotlib & Seaborn – Visualizing trends (heatmaps, bar charts, pie charts).
-📉 Hypothesis Testing & Correlation – Factors influencing cancellations.
+# Tools & Techniques Used:
+     📊 Pandas & NumPy – Data manipulation & calculations.
+     📈 Matplotlib & Seaborn – Visualizing trends (heatmaps, bar charts, pie charts).
+     📉 Hypothesis Testing & Correlation – Factors influencing cancellations.
 
 # Key Business Takeaways & Recommendations
     ✅ Strengthen digital presence – Focus on SEO, social media marketing, and mobile booking optimizations to attract modern travelers.
